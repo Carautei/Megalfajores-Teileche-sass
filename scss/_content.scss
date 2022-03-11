@@ -1,0 +1,18 @@
+main{
+    background-color: $primary;
+    padding:20px;
+}
+section{
+    h3{
+        font-family:$mainFont;
+        color: $secondary;
+    }
+    p{
+        font-size: $textMedium;
+        line-height: 1.4em;
+        color: $primary;
+    }
+}
+aside{
+    background-color: $warning;
+}
